@@ -6,6 +6,7 @@ const Todo = () => {
           <h1>Todo heading</h1>
           <h2>learn commit and push git command</h2>
           <h2>learn commit --m amend command</h2>
+          <h2>format some code</h2>
       </>
   )
 }
