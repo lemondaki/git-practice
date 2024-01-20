@@ -1,1 +1,1 @@
-const apiKey = 'abcfeeeeefsfjsdhf101212121';
+const apiKey = 'http://10.10.40.40:3001';
